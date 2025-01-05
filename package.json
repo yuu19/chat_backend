@@ -9,6 +9,8 @@
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
-    "@types/bun": "latest"
+    "@hono/zod-validator": "^0.4.2",
+    "@types/bun": "latest",
+    "zod": "^3.24.1"
   }
 }
